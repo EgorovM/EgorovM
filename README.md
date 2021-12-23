@@ -6,11 +6,7 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://aralroca.com">
-    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
-  </a>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=egorovm&show_icons=true&theme=gotham" alt="egorovm" />
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
