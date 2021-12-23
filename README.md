@@ -1,6 +1,18 @@
 # Hi, I'm Michil
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=egorovm&show_icons=true&theme=gotham" alt="egorovm" />
+
+#### 🧡 &nbsp;&nbsp;$USER
+
+I'm a Software Engineer who likes Python among others.
+
+#### 🧡 &nbsp;&nbsp;My passions
+
+* Technology and software
+* Science 
+* Machine learning ([My articles](https://scholar.google.com/citations?hl=en&user=LRwcG0gAAAAJ))
+
+
+#### 🧡 &nbsp;&nbsp;Contact me
 
 <p align="center" style="margin: -20px 0 30px">
   <a href="https://www.linkedin.com/in/michilegorov/" target="_blank" style='margin-right:10px'>
@@ -12,10 +24,4 @@
   </a>
 </p>
 
-I'm a Software Engineer who likes Python among others.
-
-#### 🧡 &nbsp;&nbsp;My passions
-
-* Technology and software
-* Science 
-* Machine learning ([My articles](https://scholar.google.com/citations?hl=en&user=LRwcG0gAAAAJ))
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=egorovm&show_icons=true&theme=gotham" alt="egorovm" />
