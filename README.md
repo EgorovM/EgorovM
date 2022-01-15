@@ -24,9 +24,9 @@ I'm an experienced Software Engineer and Data Scientist who want to embrace imme
 
 - [School Security Access](https://github.com/EgorovM/online_physmath). Designed a client-server architecture for attendance marking automatization by using Django. Saved 3000 hours per year for 6 tutors. Reduced school paper consumption.
 
-- [Sakha Language Handwritten Letters Recognition](https://github.com/EgorovM/saveyourlanguage/) Implemented the service for learning the Sakha language for preschoolers by using Django and Tensorflow frameworks. Created server to mining about 8000 unique handwritten letter examples from 87 people for CNN fitting.
+- [Sakha Language Handwritten Letters Recognition](https://github.com/EgorovM/saveyourlanguage/). Implemented the service for learning the Sakha language for preschoolers by using Django and Tensorflow frameworks. Created server to mining about 8000 unique handwritten letter examples from 87 people for CNN fitting.
 
-- [Free offices finder telegram bot](https://github.com/EgorovM/freeRooms/) The telegram bot for free rooms finding in the ITMO University's campuses. 
+- [Free offices finder telegram bot](https://github.com/EgorovM/freeRooms/). The telegram bot for free rooms finding in the ITMO University's campuses. 
 
 
 ### 🔗 &nbsp;&nbsp;Some links
