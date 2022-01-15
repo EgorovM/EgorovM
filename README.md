@@ -20,7 +20,7 @@ I'm an experienced Software Engineer and Data Scientist who want to embrace imme
 
 ### 🚀 &nbsp;&nbsp;Personal projects
 
-- [LotosLab](https://github.com/EgorovM/lotos-public) is an online shop for choosing the cheapest analyses between the Helix, the Invitro and the Citilab companies. Stack: Python, Django, PostgreSQL.
+- [LotosLab](https://github.com/EgorovM/online-shop-django) is an online shop for choosing the cheapest analyses between the Helix, the Invitro and the Citilab companies. Stack: Python, Django, PostgreSQL.
 
 - [School Security Access](https://github.com/EgorovM/online_physmath). Designed a client-server architecture for attendance marking automatization by using Django. Saved 3000 hours per year for 6 tutors. Reduced school paper consumption.
 
