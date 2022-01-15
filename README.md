@@ -31,6 +31,7 @@ I'm an experienced Software Engineer and Data Scientist who want to embrace imme
 
 ### 🔗 &nbsp;&nbsp;Some links
 
+* [CV](https://drive.google.com/file/d/1v7J5enT83JDtL_sTtzUx5-7aVDODcfM9/view?usp=sharing)
 * [Telegram](https://t.me/loalkota)
 * [LinkedIn](https://www.linkedin.com/in/michilegorov/)
 
